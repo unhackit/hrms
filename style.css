@@ -963,7 +963,7 @@ svg.svg-features-bottom {
 	transition: all .3s ease-out;
 }
 .grid--features .grid__item--featured{
-	background-color:#5e03db;
+	background-color:#0667D2;
 	color:#fff;
 }
 .grid--features .grid__item:hover{
@@ -977,7 +977,7 @@ svg.svg-features-bottom {
 	font-weight:700;
 	padding:10px 0 20px 0;
 	margin:0px;
-	color:#5e03db;
+	color:#0667D2;
 }
 .grid--more-features .grid__item .grid__title{
 	font-size:20px;
