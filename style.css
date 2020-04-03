@@ -265,10 +265,10 @@ h6{
 }
 .header__menu > ul > li.header__btn--signup > a { 
 	color:#fff; 
-	background-color:#5e03db;
+	background-color:#0667D2;
 	padding:0 22px; 
 	margin:19px 0 0 25px;
-	border:1px #5e03db solid;
+	border:1px #0667D2 solid;
 }
 .header__menu > ul > li.header__btn--login > a {
 	background-color:#5be2c2; 
@@ -279,8 +279,8 @@ h6{
 }
 .header__menu ul li.header__btn--signup > a:hover{
 	background:none; 
-	border:1px #5e03db solid;
-	color:#5e03db;
+	border:1px #0667D2 solid;
+	color:#0667D2;
 }
 .header__menu ul li.header__btn--login > a:hover{
 	background-color:transparent; 
@@ -288,13 +288,13 @@ h6{
 	color:#000;
 }
 .header__menu ul li  a:hover, .header__menu ul li a.selected , .header__menu ul li a.active{
-	color: #5e03db;
+	color: #0667D2;
 }
 .header__menu ul li.header__btn--signup a.active { 
 	color:#fff; 
 }
 .header__menu ul li.header__btn--login a.active {
-	color:#5e03db; 
+	color:#0667D2; 
 }
 .header__menu ul li:hover{
 	cursor:pointer;
@@ -352,7 +352,7 @@ h6{
   font-size:14px;
   line-height:45px; height:45px;
 }
-.header__menu ul ul li a:hover{ color: #0667D2 #5e03db; }
+.header__menu ul ul li a:hover{ color: #0667D2 #0667D2; }
 .header__menu ul ul li:last-child a {
  border-bottom:none; 
  }
@@ -746,8 +746,8 @@ h6{
 	border:2px #5be2c2 solid;
 }
 .btn--green-bg:hover{
-	color:#5e03db;
-	border:2px #5e03db solid;
+	color:#0667D2;
+	border:2px #0667D2 solid;
 	background-color:transparent;
 }
 
@@ -1087,7 +1087,7 @@ svg.svg-features-bottom {
 	font-size:16px;
 }
 .testimonials__source a{
-	color:#5e03db;
+	color:#0667D2;
 	padding:0 20px;
 	position:relative;
 	-webkit-transition: all 0.5s;
@@ -1188,7 +1188,7 @@ svg.svg-pricing-bottom {
 .switcher__border{
 	height: 40px;
 	width: 50%;
-	background-color:#5e03db;
+	background-color:#0667D2;
 	display:block;
 	position:absolute;
 	top:0px;
@@ -1238,7 +1238,7 @@ svg.svg-pricing-bottom {
 	padding:50px 0 70px 0;
 	border-radius: 20px;
 	-webkit-border-radius: 20px;
-	background-color:#5e03db;
+	background-color:#0667D2;
 	color:#fff;
 	-moz-box-shadow: 10px 0 15px -10px rgba(0, 0, 0, .45), -10px 0 15px -10px rgba(0, 0, 0, .45);
 	-webkit-box-shadow: 10px 0 15px -10px rgba(0, 0, 0, .45), -10px 0 15px -10px rgba(0, 0, 0, .45);
@@ -1416,13 +1416,13 @@ svg.svg-pricing-bottom {
 	-moz-transition: background-color 0.3s ease;
 	transition: background-color 0.3s ease; 
 	background:none;
-	color:#5e03db;
-	border:2px #5e03db solid;
+	color:#0667D2;
+	border:2px #0667D2 solid;
 }
 .pricing__signup:hover{
 	color:#fff;
-	background-color:#5e03db;
-	border:2px #5e03db solid;
+	background-color:#0667D2;
+	border:2px #0667D2 solid;
  }
 .pricing__plan--popular .pricing__signup{
 	color:#fff;
@@ -1439,7 +1439,7 @@ svg.svg-pricing-bottom {
 /*===============================================*/
  
 .section--cta{
-	background-color:#5e03db;
+	background-color:#0667D2;
 	color:#fff;
 	position:relative;
 }
@@ -2017,7 +2017,7 @@ transition: all 0.3s 0.12s;
   background-color:#5be2c2;
 }
 .modal__content--signup{
-  background-color:#5e03db;
+  background-color:#0667D2;
 }
 .modal__info{
 	width:34%;
@@ -2082,7 +2082,7 @@ transition: all 0.3s 0.12s;
 }
 .modal__switch--signup:hover{
 	background-color:#fff;
-	color:#5e03db;
+	color:#0667D2;
     border: 2px #fff solid;
 }
 .modal__switch--login{
@@ -2145,14 +2145,14 @@ transition: all 0.3s 0.12s;
 	border:none;
 	background-color:#f7f8f9;
 }
-.modal__checkbox input[type="checkbox"]:checked + label:before {color: #fff;content: "\2713";border:none;	text-align: center;background-color:#5e03db; }
+.modal__checkbox input[type="checkbox"]:checked + label:before {color: #fff;content: "\2713";border:none;	text-align: center;background-color:#0667D2; }
 .modal__checkbox input[type="checkbox"]:checked + label:after {font-weight: bold;}
 .modal__checkbox input[type="checkbox"] + label:before, input[type="checkbox"]:checked + label:before{background-color:#f7f8f9;}
 
 .modal__switch--forgot{
 	float:right;
 	padding:10px 0 0 0;
-	color:#5e03db;
+	color:#0667D2;
 	font-weight:700;
 	cursor:pointer;
     -webkit-transition: all 0.3s ease;
@@ -2318,7 +2318,7 @@ ul.grid__list--fmenu li a::after {
     display: block;
     width: 0;
     height: 1px;
-    background: #5e03db;
+    background: #0667D2;
     transition: width .3s;
 }
 
@@ -2326,7 +2326,7 @@ ul.grid__list--fmenu li a:hover::after {
     width: 100%;
 }
 ul.grid__list--fmenu li a:hover {
-	color: #5e03db;
+	color: #0667D2;
 }
 /*===============================================*/
 /* 9. MEDIA QUERIES   			 */
